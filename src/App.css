@@ -1,0 +1,12 @@
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+  font-size: 20px;
+}
+
+.sec_app {
+  padding: 0 0 40px;
+}

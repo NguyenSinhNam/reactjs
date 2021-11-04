@@ -1,0 +1,20 @@
+#cart_items .cart_info .table.table-condensed tr img {
+  width: 100px;
+}
+
+#cart_items .cart_info .table.table-condensed tr th,
+#cart_items .cart_info .table.table-condensed tr td {
+  vertical-align: middle;
+}
+
+.imageProduct label {
+  margin-right: 10px;
+}
+
+.imageProduct img {
+  width: 80px;
+}
+
+.signup-form form input[name="sale"] {
+  width: 100px;
+}
